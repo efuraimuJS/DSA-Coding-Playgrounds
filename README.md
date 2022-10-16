@@ -1,2 +1,2 @@
-# Coding-Playgrounds
-Coding Playgrounds
+# DSA Coding-Playgrounds
+DSA Coding Playgrounds
